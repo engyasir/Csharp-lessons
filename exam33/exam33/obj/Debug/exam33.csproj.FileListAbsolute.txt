@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\exam33\exam33\bin\Debug\exam33.exe.config
+E:\دروس سي شارب تطبيقية\exam33\exam33\bin\Debug\exam33.exe
+E:\دروس سي شارب تطبيقية\exam33\exam33\bin\Debug\exam33.pdb
+E:\دروس سي شارب تطبيقية\exam33\exam33\obj\Debug\exam33.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\exam33\exam33\obj\Debug\exam33.exe
+E:\دروس سي شارب تطبيقية\exam33\exam33\obj\Debug\exam33.pdb
