@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\bin\Debug\ternaray condition.exe.config
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\bin\Debug\ternaray condition.exe
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\bin\Debug\ternaray condition.pdb
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\obj\Debug\ternaray condition.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\obj\Debug\ternaray condition.exe
+E:\دروس سي شارب تطبيقية\ternaray condition\ternaray condition\obj\Debug\ternaray condition.pdb
