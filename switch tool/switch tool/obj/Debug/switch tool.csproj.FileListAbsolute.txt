@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\bin\Debug\switch tool.exe.config
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\bin\Debug\switch tool.exe
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\bin\Debug\switch tool.pdb
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\obj\Debug\switch tool.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\obj\Debug\switch tool.exe
+E:\دروس سي شارب تطبيقية\switch tool\switch tool\obj\Debug\switch tool.pdb
