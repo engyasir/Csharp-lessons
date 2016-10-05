@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\bin\Debug\if assigsment.exe.config
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\bin\Debug\if assigsment.exe
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\bin\Debug\if assigsment.pdb
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\obj\Debug\if assigsment.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\obj\Debug\if assigsment.exe
+E:\دروس سي شارب تطبيقية\if assigsment\if assigsment\obj\Debug\if assigsment.pdb
