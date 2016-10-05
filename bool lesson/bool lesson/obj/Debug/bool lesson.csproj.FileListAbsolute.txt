@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\bin\Debug\bool lesson.exe.config
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\bin\Debug\bool lesson.exe
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\bin\Debug\bool lesson.pdb
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\obj\Debug\bool lesson.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\obj\Debug\bool lesson.exe
+E:\دروس سي شارب تطبيقية\bool lesson\bool lesson\obj\Debug\bool lesson.pdb

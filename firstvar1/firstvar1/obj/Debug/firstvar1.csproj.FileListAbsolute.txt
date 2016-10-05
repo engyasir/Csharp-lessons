@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\bin\Debug\firstvar1.exe.config
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\bin\Debug\firstvar1.exe
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\bin\Debug\firstvar1.pdb
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\obj\Debug\firstvar1.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\obj\Debug\firstvar1.exe
+E:\دروس سي شارب تطبيقية\firstvar1\firstvar1\obj\Debug\firstvar1.pdb

@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\bin\Debug\exmp1.exe.config
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\bin\Debug\exmp1.exe
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\bin\Debug\exmp1.pdb
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\obj\Debug\exmp1.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\obj\Debug\exmp1.exe
+E:\دروس سي شارب تطبيقية\exmp1\exmp1\obj\Debug\exmp1.pdb

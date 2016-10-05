@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\bin\Debug\varibale++.exe.config
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\bin\Debug\varibale++.exe
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\bin\Debug\varibale++.pdb
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\obj\Debug\varibale++.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\obj\Debug\varibale++.exe
+E:\دروس سي شارب تطبيقية\varibale++\varibale++\obj\Debug\varibale++.pdb
