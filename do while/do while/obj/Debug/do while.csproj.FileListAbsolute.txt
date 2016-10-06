@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\do while\do while\bin\Debug\do while.exe.config
+E:\دروس سي شارب تطبيقية\do while\do while\bin\Debug\do while.exe
+E:\دروس سي شارب تطبيقية\do while\do while\bin\Debug\do while.pdb
+E:\دروس سي شارب تطبيقية\do while\do while\obj\Debug\do while.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\do while\do while\obj\Debug\do while.exe
+E:\دروس سي شارب تطبيقية\do while\do while\obj\Debug\do while.pdb
