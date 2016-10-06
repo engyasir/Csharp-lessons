@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\for tool\for tool\bin\Debug\for tool.exe.config
+E:\دروس سي شارب تطبيقية\for tool\for tool\bin\Debug\for tool.exe
+E:\دروس سي شارب تطبيقية\for tool\for tool\bin\Debug\for tool.pdb
+E:\دروس سي شارب تطبيقية\for tool\for tool\obj\Debug\for tool.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\for tool\for tool\obj\Debug\for tool.exe
+E:\دروس سي شارب تطبيقية\for tool\for tool\obj\Debug\for tool.pdb
