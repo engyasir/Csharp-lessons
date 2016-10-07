@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\long exam\long exam\bin\Debug\long exam.exe.config
+E:\دروس سي شارب تطبيقية\long exam\long exam\bin\Debug\long exam.exe
+E:\دروس سي شارب تطبيقية\long exam\long exam\bin\Debug\long exam.pdb
+E:\دروس سي شارب تطبيقية\long exam\long exam\obj\Debug\long exam.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\long exam\long exam\obj\Debug\long exam.exe
+E:\دروس سي شارب تطبيقية\long exam\long exam\obj\Debug\long exam.pdb
