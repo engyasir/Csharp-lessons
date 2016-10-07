@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\convert\convert\bin\Debug\convert.exe.config
+E:\دروس سي شارب تطبيقية\convert\convert\bin\Debug\convert.exe
+E:\دروس سي شارب تطبيقية\convert\convert\bin\Debug\convert.pdb
+E:\دروس سي شارب تطبيقية\convert\convert\obj\Debug\conv1.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\convert\convert\obj\Debug\convert.exe
+E:\دروس سي شارب تطبيقية\convert\convert\obj\Debug\convert.pdb
