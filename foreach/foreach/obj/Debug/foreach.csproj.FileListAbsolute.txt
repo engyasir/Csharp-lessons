@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\foreach\foreach\bin\Debug\@foreach.exe.config
+E:\دروس سي شارب تطبيقية\foreach\foreach\bin\Debug\@foreach.exe
+E:\دروس سي شارب تطبيقية\foreach\foreach\bin\Debug\@foreach.pdb
+E:\دروس سي شارب تطبيقية\foreach\foreach\obj\Debug\foreach.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\foreach\foreach\obj\Debug\@foreach.exe
+E:\دروس سي شارب تطبيقية\foreach\foreach\obj\Debug\@foreach.pdb
