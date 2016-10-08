@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\arry\arry\bin\Debug\arry.exe.config
+E:\دروس سي شارب تطبيقية\arry\arry\bin\Debug\arry.exe
+E:\دروس سي شارب تطبيقية\arry\arry\bin\Debug\arry.pdb
+E:\دروس سي شارب تطبيقية\arry\arry\obj\Debug\arry.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\arry\arry\obj\Debug\arry.exe
+E:\دروس سي شارب تطبيقية\arry\arry\obj\Debug\arry.pdb
