@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\2 array\2 array\bin\Debug\2 array.exe.config
+E:\دروس سي شارب تطبيقية\2 array\2 array\bin\Debug\2 array.exe
+E:\دروس سي شارب تطبيقية\2 array\2 array\bin\Debug\2 array.pdb
+E:\دروس سي شارب تطبيقية\2 array\2 array\obj\Debug\2 array.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\2 array\2 array\obj\Debug\2 array.exe
+E:\دروس سي شارب تطبيقية\2 array\2 array\obj\Debug\2 array.pdb
