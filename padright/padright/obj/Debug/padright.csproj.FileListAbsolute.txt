@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\padright\padright\bin\Debug\padright.exe.config
+E:\دروس سي شارب تطبيقية\padright\padright\bin\Debug\padright.exe
+E:\دروس سي شارب تطبيقية\padright\padright\bin\Debug\padright.pdb
+E:\دروس سي شارب تطبيقية\padright\padright\obj\Debug\padright.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\padright\padright\obj\Debug\padright.exe
+E:\دروس سي شارب تطبيقية\padright\padright\obj\Debug\padright.pdb
