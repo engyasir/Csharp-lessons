@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\bin\Debug\ref_value.exe.config
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\bin\Debug\ref_value.exe
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\bin\Debug\ref_value.pdb
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\obj\Debug\ref_value.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\obj\Debug\ref_value.exe
+E:\دروس سي شارب تطبيقية\ref_value\ref_value\obj\Debug\ref_value.pdb
