@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\bin\Debug\minvalue.exe.config
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\bin\Debug\minvalue.exe
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\bin\Debug\minvalue.pdb
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\obj\Debug\minvalue.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\obj\Debug\minvalue.exe
+E:\دروس سي شارب تطبيقية\minvalue\minvalue\obj\Debug\minvalue.pdb
