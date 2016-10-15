@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\bin\Debug\maxvalue.exe.config
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\bin\Debug\maxvalue.exe
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\bin\Debug\maxvalue.pdb
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\obj\Debug\maxvalue.exe
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\obj\Debug\maxvalue.pdb
+E:\دروس سي شارب تطبيقية\maxvalue\maxvalue\obj\Debug\maxvalue.csprojResolveAssemblyReference.cache
