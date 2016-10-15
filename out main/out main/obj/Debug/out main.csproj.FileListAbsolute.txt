@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\out main\out main\bin\Debug\out main.exe.config
+E:\دروس سي شارب تطبيقية\out main\out main\bin\Debug\out main.exe
+E:\دروس سي شارب تطبيقية\out main\out main\bin\Debug\out main.pdb
+E:\دروس سي شارب تطبيقية\out main\out main\obj\Debug\out main.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\out main\out main\obj\Debug\out main.exe
+E:\دروس سي شارب تطبيقية\out main\out main\obj\Debug\out main.pdb
