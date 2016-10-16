@@ -8,32 +8,36 @@ namespace minvalue
 {
     class Program
     {
-        public static double Min_Value(double[] myarry1, double minval)
 
-
+        public static int MinValue(int[] myarray2)
         {
-            return minval;
-        }
-        
-            public  static int Min_Value(int [] myarray1, int minval)
-        {
-           // int minval = myarray1[0];
-           // double minval = myarray1[0];
-            for (int i = 1; i <myarray1.Length; i++)
+            int minval = myarray2[0];
+             
+            for (int i = 0; i < myarray2.Length; i++)
             {
-                if (myarray1[i] < minval)
-
-                    minval = myarray1[i];
-            }     
+                if (myarray2[i] < minval)
+                
+              minval = myarray2[i];
+              
+            }
             return minval;
-            
-        }
+
+            }
+            public  static double MinValue(double  minval)
+            {
+                      
+             return minval;
+            }
         static void Main(string[] args)
         {
-            int[] myarray2 = { 9, 40, 5, 13, 2, 11, 8 , 20 , 6 , 35};
 
-           // Console.Write($"{Min_value(minval)}");
+            int[] myarray1 = { 9, 40, 10, 13, 3, 11, 8, 20, 6, 35 };
+            double minval = MinValue(myarray1);
+
+                      
+            Console.Write($" the minmum value is : {MinValue(minval)}");
             Console.ReadKey();
+        
         }
     }
 }
