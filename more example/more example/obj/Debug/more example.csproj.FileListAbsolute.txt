@@ -1,0 +1,6 @@
+E:\دروس سي شارب تطبيقية\more example\more example\bin\Debug\more example.exe.config
+E:\دروس سي شارب تطبيقية\more example\more example\bin\Debug\more example.exe
+E:\دروس سي شارب تطبيقية\more example\more example\bin\Debug\more example.pdb
+E:\دروس سي شارب تطبيقية\more example\more example\obj\Debug\more example.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\more example\more example\obj\Debug\more example.exe
+E:\دروس سي شارب تطبيقية\more example\more example\obj\Debug\more example.pdb
