@@ -1,0 +1,9 @@
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\bin\Debug\newtest employee pro.exe.config
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\bin\Debug\newtest employee pro.exe
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\bin\Debug\newtest employee pro.pdb
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest employee pro.csprojResolveAssemblyReference.cache
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest_employee_pro.frm.resources
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest_employee_pro.Properties.Resources.resources
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest employee pro.csproj.GenerateResource.Cache
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest employee pro.exe
+E:\دروس سي شارب تطبيقية\newtest employee pro\newtest employee pro\obj\Debug\newtest employee pro.pdb
